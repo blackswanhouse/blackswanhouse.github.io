@@ -1,4 +1,11 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+header {
+    text-align: center;
+}
+
+footer {
+    color: rgb(114, 114, 114);
+    font: 400 14px / 1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
