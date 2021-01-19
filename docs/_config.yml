@@ -4,7 +4,7 @@ description: >-
   Publisher
 baseurl: ""
 url: "https:blackswan.house"
-logo: /assets/img/logo.png
+logo: /assets/img/swan.svg
 
 plugins:
   - jekyll-feed
